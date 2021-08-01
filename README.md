@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm technology passionate, from Arduino code development to Infrastructure as a code.
+
 <!--
 **rsilveira65/rsilveira65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
