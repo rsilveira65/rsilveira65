@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm technology passionate, from Arduino code development to Infrastructure as a code.
+I’m a DevOps Engineer (Software Engineer background) with over 7 years of experience, father of three dogs :dog: and currently living in São Lourenço do Sul, southern Brazil.
 
 <!--
 **rsilveira65/rsilveira65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
