@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-      - uses: pemtajo/badge-readme@master
-          CREDLY_USER:rafael-silveira.add4a0a3
+        uses: pemtajo/badge-readme@master
+        with:
+          CREDLY_USER: rafael-silveira.add4a0a3
 
