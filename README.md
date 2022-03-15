@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-I’m a DevOps Engineer (Software Engineer background) with over 7 years of experience, father of three dogs :dog: and currently living in São Lourenço do Sul, southern Brazil.
+I’m a DevOps Engineer (Software Engineering background) with over 7 years of experience, father of three dogs :dog: and currently living in São Lourenço do Sul, southern Brazil.
+
+
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](rsilveiracc@gmail.com)
+
+####
+
+<a href="https://www.facebook.com/rsilveira65" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/_rsilveira" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/rsilveira__/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/r-silveira/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/rsilveira65" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" alt="GitHub" width="30"></a>
 
 <!--START_SECTION:badges-->
 
