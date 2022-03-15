@@ -3,7 +3,7 @@
 I’m a DevOps Engineer (Software Engineering background) with over 7 years of experience, father of three dogs :dog: and currently living in São Lourenço do Sul, southern Brazil.
 
 
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](rsilveiracc@gmail.com)
+Please feel free to get in touch, I'll be happy to help! [📨](rsilveiracc@gmail.com)
 
 ####
 
