@@ -1,6 +1,6 @@
 ### Hi there 🙋🏾‍♂️
 
-I’m a DevOps Engineer (Software Engineering background) with over 7 years of experience, father of three dogs :dog: and one human. Currently living in São Lourenço do Sul, southern Brazil.
+I’m a DevOps Engineer (Software Engineering background) with over 7 years of experience, father of three dogs :dog: and an human. Currently living in São Lourenço do Sul, southern Brazil.
 
 
 Please feel free to get in touch, I'll be happy to help! [📨](rsilveiracc@gmail.com)
