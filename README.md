@@ -1,6 +1,6 @@
 ### Hi there 🙋🏾‍♂️
 
-I have over 8+ years of experience as a DevOps Engineer and come from a Software Engineer background. I am also the father of three 🐶 and one human. Currently residing in the southern Brazilian city of São Lourenço do Sul.
+I have over 9+ years of experience as a DevOps Engineer and come from a Software Engineer background. I am also the father of three 🐶 and one human. Currently residing in the southern Brazilian city of São Lourenço do Sul.
 
 
 Please feel free to get in touch, I'll be happy to help! [📨](rsilveiracc@gmail.com)
