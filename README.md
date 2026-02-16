@@ -1,6 +1,10 @@
-### Hi there 🙋🏾‍♂️
+### Hey there 🙋🏾‍♂️
 
-I have over a decade years of experience as a DevOps Engineer and come from a Software Engineer background. I am also the father of three 🐶 and one human. Currently residing in the southern Brazilian city of São Lourenço do Sul.
+DevOps Engineer with 10+ years in the trenches, originally forged in software engineering. I build, automate, break, fix, and scale things for a living.
+
+Proud dad of three 🐶 and one tiny human.
+
+Currently based in São Lourenço do Sul, soaking up the southern Brazil vibes while shipping reliable systems.
 
 
 Please feel free to get in touch, I'll be happy to help! [📨](rsilveiracc@gmail.com)
